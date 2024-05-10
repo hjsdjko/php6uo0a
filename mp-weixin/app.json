@@ -1,0 +1,96 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/register/register",
+    "pages/forget/forget",
+    "pages/center/center",
+    "pages/user-info/user-info",
+    "pages/xuesheng/list",
+    "pages/xuesheng/add-or-update",
+    "pages/xuesheng/detail",
+    "pages/jiaoshi/list",
+    "pages/jiaoshi/add-or-update",
+    "pages/jiaoshi/detail",
+    "pages/zhuanyexinxi/list",
+    "pages/zhuanyexinxi/add-or-update",
+    "pages/zhuanyexinxi/detail",
+    "pages/bumenxinxi/list",
+    "pages/bumenxinxi/add-or-update",
+    "pages/bumenxinxi/detail",
+    "pages/kechengxinxi/list",
+    "pages/kechengxinxi/add-or-update",
+    "pages/kechengxinxi/detail",
+    "pages/jiaoxueneirong/list",
+    "pages/jiaoxueneirong/add-or-update",
+    "pages/jiaoxueneirong/detail",
+    "pages/xueshengzuoye/list",
+    "pages/xueshengzuoye/add-or-update",
+    "pages/xueshengzuoye/detail",
+    "pages/zuoyetijiao/list",
+    "pages/zuoyetijiao/add-or-update",
+    "pages/zuoyetijiao/detail",
+    "pages/xueshengqingjia/list",
+    "pages/xueshengqingjia/add-or-update",
+    "pages/xueshengqingjia/detail",
+    "pages/xueshengqiandao/list",
+    "pages/xueshengqiandao/add-or-update",
+    "pages/xueshengqiandao/detail",
+    "pages/forum-index/forum-index",
+    "pages/forum-detail/forum-detail",
+    "pages/forum-reply/forum-reply",
+    "pages/forum-list/list",
+    "pages/forum-my/forum-my",
+    "pages/forum-add-or-update/forum-add-or-update",
+    "pages/index/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "微信课堂助手小程序",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#FFFFFF",
+    "selectedColor": "#FFEA00",
+    "borderStyle": "black",
+    "backgroundColor": "#990033",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/tabs/index.png",
+        "selectedIconPath": "static/tabs/index1.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/kechengxinxi/list",
+        "iconPath": "/static/tabs/icon1.png",
+        "selectedIconPath": "/static/tabs/icon1_act.png",
+        "text": "课程信息"
+      },
+      {
+        "pagePath": "pages/jiaoxueneirong/list",
+        "iconPath": "/static/tabs/icon2.png",
+        "selectedIconPath": "/static/tabs/icon2_act.png",
+        "text": "教学内容"
+      },
+      {
+        "pagePath": "pages/forum-index/forum-index",
+        "iconPath": "static/tabs/type.png",
+        "selectedIconPath": "static/tabs/type1.png",
+        "text": "教师交流"
+      },
+      {
+        "pagePath": "pages/center/center",
+        "iconPath": "static/tabs/mine.png",
+        "selectedIconPath": "static/tabs/mine1.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {
+    "uni-load-more": "/components/mescroll-uni/mescroll-uni",
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni",
+    "uni-popup": "/components/uni-popup/uni-popup"
+  }
+}

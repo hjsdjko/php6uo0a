@@ -1,0 +1,326 @@
+{
+	"pages": [{
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarBackgroundColor": "#990033",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "登录"
+		}
+	}, {
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarBackgroundColor": "#990033",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "注册"
+		}
+	}, {
+		"path": "pages/forget/forget",
+		"style": {
+			"navigationBarBackgroundColor": "#990033",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "忘记密码"
+		}
+	}, {
+		"path": "pages/center/center",
+		"style": {
+			"navigationBarBackgroundColor": "#990033",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的"
+		}
+	}, {
+		"path": "pages/user-info/user-info",
+		"style": {
+			"navigationBarBackgroundColor": "#990033",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户信息"
+		}
+	}
+			,{
+		"path": "pages/xuesheng/list",
+		"style": {
+			"navigationBarBackgroundColor": "#990033",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/xuesheng/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#990033",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/xuesheng/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#990033",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/jiaoshi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#990033",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/jiaoshi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#990033",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/jiaoshi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#990033",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/zhuanyexinxi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#990033",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/zhuanyexinxi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#990033",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/zhuanyexinxi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#990033",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/bumenxinxi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#990033",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/bumenxinxi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#990033",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/bumenxinxi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#990033",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/kechengxinxi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#990033",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/kechengxinxi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#990033",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/kechengxinxi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#990033",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/jiaoxueneirong/list",
+		"style": {
+			"navigationBarBackgroundColor": "#990033",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/jiaoxueneirong/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#990033",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/jiaoxueneirong/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#990033",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/xueshengzuoye/list",
+		"style": {
+			"navigationBarBackgroundColor": "#990033",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/xueshengzuoye/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#990033",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/xueshengzuoye/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#990033",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/zuoyetijiao/list",
+		"style": {
+			"navigationBarBackgroundColor": "#990033",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/zuoyetijiao/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#990033",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/zuoyetijiao/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#990033",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/xueshengqingjia/list",
+		"style": {
+			"navigationBarBackgroundColor": "#990033",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/xueshengqingjia/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#990033",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/xueshengqingjia/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#990033",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/xueshengqiandao/list",
+		"style": {
+			"navigationBarBackgroundColor": "#990033",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/xueshengqiandao/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#990033",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/xueshengqiandao/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#990033",
+			"navigationBarTextStyle": "white"
+		}
+	}
+						    , {
+		"path": "pages/forum-index/forum-index",
+		"style": {
+			"navigationBarBackgroundColor": "#990033",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "首页"
+		}
+	}, {
+		"path": "pages/forum-detail/forum-detail",
+		"style": {
+			"navigationBarBackgroundColor": "#990033",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "教师交流发帖详情"
+		}
+	}, {
+		"path": "pages/forum-reply/forum-reply",
+		"style": {
+			"navigationBarBackgroundColor": "#990033",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "回复评论"
+		}
+	}, {
+		"path": "pages/forum-list/list",
+		"style": {
+			"navigationBarBackgroundColor": "#990033",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的发布"
+		}
+	}, {
+		"path": "pages/forum-my/forum-my",
+		"style": {
+			"navigationBarBackgroundColor": "#990033",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的发布"
+		}
+	}, {
+		"path": "pages/forum-add-or-update/forum-add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#990033",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的发布"
+		}
+	}
+			, {
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarBackgroundColor": "#990033",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "首页"
+		}
+	}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "微信课堂助手小程序",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#FFFFFF",
+		"selectedColor": "#FFEA00",
+		"borderStyle": "black",
+		"backgroundColor": "#990033",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabs/index.png",
+				"selectedIconPath": "static/tabs/index1.png",
+				"text": "首页"
+			}
+			
+												,{
+				"pagePath": "pages/kechengxinxi/list",
+				"iconPath": "/static/tabs/icon1.png",
+				"selectedIconPath": "/static/tabs/icon1_act.png",
+				"text": "课程信息"
+			}
+												,{
+				"pagePath": "pages/jiaoxueneirong/list",
+				"iconPath": "/static/tabs/icon2.png",
+				"selectedIconPath": "/static/tabs/icon2_act.png",
+				"text": "教学内容"
+			}
+						
+						,{
+			 	"pagePath": "pages/forum-index/forum-index",
+				"iconPath": "static/tabs/type.png",
+			 	"selectedIconPath": "static/tabs/type1.png",
+				"text": "教师交流"
+			}
+						
+			,{
+				"pagePath": "pages/center/center",
+				"iconPath": "static/tabs/mine.png",
+				"selectedIconPath": "static/tabs/mine1.png",
+				"text": "我的"
+			}
+		]
+	}
+}
